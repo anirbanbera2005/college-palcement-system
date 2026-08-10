@@ -41,6 +41,11 @@ The project is deployed and currently hosted live. You can visit the working app
 
 Live Link: http://college-placement-system.page.gd
 
+**Author**
+Anirban Bera
+
+B.Tech in Computer Science & Engineering University of Engineering & Management, Kolkata
+
 
 📄 License
 This project is licensed under the MIT License. You are free to use, modify, and distribute this software for educational and personal projects.
